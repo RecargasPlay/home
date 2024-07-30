@@ -2049,7 +2049,7 @@ SECTION.PLANOSiptv .PRICEbar .FULLpack8 {
 	font-family: var(--font-mont);
 	text-transform: uppercase;
 	background: #ffffff;
-	background: -webkit-linear-gradient(left, #000 0, #000 25%, #dbb30d 50%, #000 100%)repeat;
+	background: -webkit-linear-gradient(left, #000 0, #000 25%, #f5bda4 50%, #000 100%)repeat;
 	-webkit-background-clip: text;
 	-ms-background-clip: text;
 	-moz-background-clip: text;
