@@ -2063,6 +2063,26 @@ SECTION.PLANOSiptv .PRICEbar .FULLpack8 {
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-timing-function: linear;
 }
+SECTION.PLANOSiptv .PRICEbar .FULLpack9 {
+	font-size: 16px;
+	font-weight: 700;
+	font-family: var(--font-mont);
+	text-transform: uppercase;
+	background: #ffffff;
+	background: -webkit-linear-gradient(left, #e9670a 0, #e9670a 25%, #000000 50%, #e9670a 100%)repeat;
+	-webkit-background-clip: text;
+	-ms-background-clip: text;
+	-moz-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-ms-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	text-fill-color: transparent;
+	-webkit-animation-name: masked-animation;
+	-webkit-animation-duration: 50s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+}
 
 h2 {
 	margin-bottom: 15px;
