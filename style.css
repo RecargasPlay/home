@@ -2064,12 +2064,12 @@ SECTION.PLANOSiptv .PRICEbar .FULLpack8 {
 	-webkit-animation-timing-function: linear;
 }
 SECTION.PLANOSiptv .PRICEbar .FULLpack9 {
-	font-size: 16px;
+	font-size: 15px;
 	font-weight: 700;
 	font-family: var(--font-mont);
 	text-transform: uppercase;
 	background: #ffffff;
-	background: -webkit-linear-gradient(left, #e9670a 0, #e9670a 25%, #000000 50%, #e9670a 100%)repeat;
+	background: -webkit-linear-gradient(left, #000 0, #000 25%, #943750 50%, #000 100%)repeat;
 	-webkit-background-clip: text;
 	-ms-background-clip: text;
 	-moz-background-clip: text;
