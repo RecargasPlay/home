@@ -210,7 +210,7 @@ HEADER.HEADERmenu .LOGOiptv::after {
 	}
 
 	BODY SECTION.PLANOSiptv H3 {
-		font-size: 23px;
+		font-size: 32px;
 		padding: 16px 16px 0;
 		width: calc(100vw - 32px);
 		font-weight: 300;
@@ -1922,8 +1922,8 @@ SECTION.PLANOSiptv .PRICEbar .FULLpack2 {
 	font-weight: 700;
 	font-family: var(--font-mont);
 	text-transform: uppercase;
-	background: #f8011c;
-	background: -webkit-linear-gradient(left, #000 0, #000 25%, #f8011c 50%, #000 100%)repeat;
+	background: #c8cd9c;
+	background: -webkit-linear-gradient(left, #000 0, #000 25%, #c8cd9c 50%, #000 100%)repeat;
 	-webkit-background-clip: text;
 	-ms-background-clip: text;
 	-moz-background-clip: text;
@@ -1943,8 +1943,8 @@ SECTION.PLANOSiptv .PRICEbar .FULLpack3 {
 	font-weight: 700;
 	font-family: var(--font-mont);
 	text-transform: uppercase;
-	background: #ff9800;
-	background: -webkit-linear-gradient(left, #000 0, #000 25%, #657efe 50%, #000 100%)repeat;
+	background: #f3abb7;
+	background: -webkit-linear-gradient(left, #000 0, #000 25%, #f3abb7 50%, #000 100%)repeat;
 	-webkit-background-clip: text;
 	-ms-background-clip: text;
 	-moz-background-clip: text;
