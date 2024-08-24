@@ -1893,7 +1893,9 @@ h6 {
 	font-size: 28px;
 	text-align: center;
 	color: white;
+	margin-bottom: -16px;
 	padding-top: 10px;
+
 }
 
 h4 {
