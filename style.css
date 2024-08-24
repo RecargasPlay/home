@@ -1893,7 +1893,6 @@ h6 {
 	font-size: 28px;
 	text-align: center;
 	color: white;
-	margin-bottom: -16px;
 	padding-top: 10px;
 }
 
@@ -2109,5 +2108,15 @@ a.txtmodal:hover {
 
 a.CLOSEmodal {
 	margin-top: 10px;
-	color: #695ba8;
+	color: #000;
 }
+.modalbaixar {
+		background-color: #d19696;
+		padding-top: 1em;
+		padding-bottom: 1em;
+		font-size: 0.8em;
+	}
+	b {
+		font-weight: bold;
+		color: #fff;
+	}
