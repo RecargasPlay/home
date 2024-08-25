@@ -2063,7 +2063,7 @@ SECTION.PLANOSiptv .PRICEbar .FULLpack8 {
 	-webkit-animation-timing-function: linear;
 }
 SECTION.PLANOSiptv .PRICEbar .FULLpack9 {
-	font-size: 15px;
+	font-size: 18px;
 	font-weight: 700;
 	font-family: var(--font-mont);
 	text-transform: uppercase;
