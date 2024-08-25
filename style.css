@@ -640,7 +640,9 @@ body {
 ::-webkit-scrollbar-track {
 	background: 0 0
 }
-
+body {
+    overflow-x: hidden;
+}
 :root {
 	--font-mont: 'Montserrat', Helvetica, sans-serif
 }
