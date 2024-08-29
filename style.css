@@ -2111,7 +2111,7 @@ a.CLOSEmodal {
 	color: #000;
 }
   .modalbaixar {
-		background-color: #d19696;
+		background-color: #bfbfbf;
 		padding-top: 1em;
 		padding-bottom: 1em;
 		font-size: 1.1em;
@@ -2120,3 +2120,7 @@ a.CLOSEmodal {
 		font-weight: bold;
 		color: #fff;
 	}
+p {
+    text-align: center;
+    font-family: bold;
+}
