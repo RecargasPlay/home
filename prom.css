@@ -216,6 +216,14 @@ HEADER.HEADERmenu .LOGOiptv::after {
 		font-weight: 300;
 		line-height: 40px
 	}
+	BODY SECTION.PLANOSiptv H6 {
+	font-size: 32px;
+        padding: 16px 16px 0;
+        width: calc(100vw - 32px);
+        font-weight: 300;
+        line-height: 40px;
+		margin-top:2em;
+    }
 
 	BODY SECTION.PLANOSiptv .PLANOSinst {
 		overflow-x: scroll;
