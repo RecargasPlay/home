@@ -877,7 +877,7 @@ HEADER.STATICmenu .HEADERinst {
 	transition: background .2s linear;
 	z-index: 5;
 	font-family: Lato
-	background-color:#222;
+	background-color:#444;
 }
 
 HEADER.HEADERmenu .MENUcntt,
