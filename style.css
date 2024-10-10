@@ -623,10 +623,6 @@ body {
 	background: #1ebea5
 }
 
-::selection {
-	color: #fff;
-	background: #c00
-}
 
 ::-webkit-scrollbar {
 	width: 0px !important;
