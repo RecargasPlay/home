@@ -1224,7 +1224,12 @@ SECTION.PLANOSiptv H3 {
 	font-size: 38px;
 	font-weight: 700
 }
-
+SECTION.PLANOSiptv H6 {
+	text-align: center;
+	margin-bottom: 38px;
+	font-size: 38px;
+	font-weight: 700
+}
 .COLLUMNspot {
 	float: left;
 	width: 33.33333333%
