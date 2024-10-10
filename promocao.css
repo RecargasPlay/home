@@ -1610,13 +1610,15 @@ SECTION.NUMBERanimate .NUMBspot P {
 }
 
 FOOTER.BTTMfooter {
-	background-color: #464545;
-	color: #888;
-	box-shadow: 0 0 38px 0 rgba(0, 0, 0, .05);
-	padding: 32px 52px;
-	font-family: var(--font-mont);
-	font-weight: 100;
-	font-size: 14px;
+    background-color: #464545;
+    color: #888;
+    box-shadow: 0 0 38px 0 rgba(0, 0, 0, .05);
+    padding: 32px 52px;
+    font-family: var(--font-mont);
+    font-weight: 100;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
 }
 
 FOOTER.BTTMfooter A {
