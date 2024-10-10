@@ -10,11 +10,6 @@ HEADER.HEADERmenu .LOGOiptv::after {
 .JDIVinst::after {
 	background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTIgNTEyOyIgZmlsbD0icmdiYSgyNSwgMTgzLCA1OSwgMC43NSkiPjxwYXRoIGQ9Ik00NjYuMjE2LDIyNy4xMTVjLTIxLjgwMy0yMS44MDMtNTcuMjgtMjEuODAzLTc5LjA4MywwbC03Ny44MDMsNzcuODAzVjUzLjMzM0MzMDkuMzMxLDIzLjkzNiwyODUuMzk1LDAsMjU1Ljk5NywwIHMtNTMuMzMzLDIzLjkzNi01My4zMzMsNTMuMzMzdjI1MS41ODRsLTc3Ljc4MS03Ny43ODFjLTIxLjgwMy0yMS44MDMtNTcuMjgtMjEuODAzLTc5LjA4Mywwcy0yMS44MDMsNTcuMjgsMCw3OS4wODMgbDIwMi42NjcsMjAyLjY2N2MyLjA2OSwyLjA2OSw0LjgsMy4xMTUsNy41MzEsMy4xMTVjMi43MzEsMCw1LjQ2MS0xLjA0NSw3LjU1Mi0zLjExNWwyMDIuNjY3LTIwMi42NjcgQzQ4Ny45OTcsMjg0LjQxNiw0ODcuOTk3LDI0OC45MTcsNDY2LjIxNiwyMjcuMTE1eiIvPjwvc3ZnPg==")
 }
-.SPOTit {
-    width: 1305;
-    /* padding: 0 14px; */
-    margin-left: -2em;
-}
 
 @media screen and (max-width:460px) {
 	.DATAmodal .FOOTERmsg .BTTUNSit {
@@ -69,20 +64,6 @@ HEADER.HEADERmenu .LOGOiptv::after {
 	BODY FOOTER.BTTMfooter .CREDITbttm {
 		font-size: 12px !important
 	}
-
-	.SPOTit {
-    width: 1305;
-    /* padding: 0 14px; */
-    margin-left: 0em;
-}
-  h6 {margin-top:2em;
-}
-  BODY SECTION.PLANOSiptv .PLANOSinst {
-    overflow-x: scroll;
-    overflow-y: hidden;
-    display: inline-grid;
-    padding: 0;
-    width: 100%;
 }
 
 
@@ -229,12 +210,6 @@ HEADER.HEADERmenu .LOGOiptv::after {
 	}
 
 	BODY SECTION.PLANOSiptv H3 {
-		font-size: 32px;
-		width: calc(100vw - 32px);
-		font-weight: 300;
-		line-height: 40px
-	}
-	BODY SECTION.PLANOSiptv H6 {
 		font-size: 32px;
 		padding: 16px 16px 0;
 		width: calc(100vw - 32px);
@@ -1216,15 +1191,6 @@ HEADER.STATICmenu li a:hover::after {
 	font-weight: 900
 }
 
-SECTION.PLANOSiptv H6 {
-	text-align: center;
-	margin-bottom: 38px;
-	font-size: 38px;
-	font-weight: 700
-}
-
-.COLLUMNspot {
-	float: left;
 SECTION.PLANOSiptv {
 	font-family: Lato;
 	position: initial
@@ -1927,7 +1893,6 @@ SECTION.NUMBERanimate2 .NUMBspot2 {
 	background: #464545;
 	background: rgba(0, 0, 0, .3)
 }
-
 
 h4 {
 	margin-bottom: 10px;
