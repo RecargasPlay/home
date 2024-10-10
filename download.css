@@ -625,7 +625,7 @@ SECTION.MODALinner .ICONSback {
 
 body {
 	color: var(--body-color);
-	background: #e5e5e5;
+	background: #222;
 	overflow-y: overlay;
 	overflow-x: hidden;
 	height: var(--max-content);
