@@ -1216,6 +1216,15 @@ HEADER.STATICmenu li a:hover::after {
 	font-weight: 900
 }
 
+SECTION.PLANOSiptv H6 {
+	text-align: center;
+	margin-bottom: 38px;
+	font-size: 38px;
+	font-weight: 700
+}
+
+.COLLUMNspot {
+	float: left;
 SECTION.PLANOSiptv {
 	font-family: Lato;
 	position: initial
