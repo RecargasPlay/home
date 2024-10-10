@@ -211,6 +211,12 @@ HEADER.HEADERmenu .LOGOiptv::after {
 
 	BODY SECTION.PLANOSiptv H3 {
 		font-size: 32px;
+		width: calc(100vw - 32px);
+		font-weight: 300;
+		line-height: 40px
+	}
+	BODY SECTION.PLANOSiptv H6 {
+		font-size: 32px;
 		padding: 16px 16px 0;
 		width: calc(100vw - 32px);
 		font-weight: 300;
@@ -1888,13 +1894,6 @@ SECTION.NUMBERanimate2 .NUMBspot2 {
 	background: rgba(0, 0, 0, .3)
 }
 
-h6 {
-	margin-bottom: 10px;
-	font-size: 28px;
-	text-align: center;
-	color: white;
-	padding-top: 10px;
-}
 
 h4 {
 	margin-bottom: 10px;
