@@ -167,8 +167,9 @@ BODY SECTION.PLANOSiptv H6 {
 
 	BODY HEADER.HEADERmenu .LOGOiptv,
 	HEADER.STATICmenu .LOGOiptv {
-		width: 100% !important;
-		margin: 0px 0 0
+		width: 20% !important;
+                margin: 0px 0 0;
+              margin-right: 30%;
 	}
 
 	HEADER.HEADERmenu .LOGOiptv::after,
