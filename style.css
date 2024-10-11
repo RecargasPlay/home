@@ -784,7 +784,7 @@ HEADER.STATICmenu A {
 }
 
 BODY.MENUactive HEADER.HEADERmenu .MENUcntt {
-	padding: 12px 58px
+	padding: 12px 8px
 }
 
 .WEBsite {
@@ -864,7 +864,7 @@ HEADER.STATICmenu .HEADERinst {
 
 HEADER.HEADERmenu .MENUcntt,
 HEADER.STATICmenu .MENUcntt {
-	padding: 12px 58px;
+	padding: 12px 8px;
 	transition: padding .2s linear;
 	display: flow-root
 }
