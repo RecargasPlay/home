@@ -13,6 +13,10 @@ HEADER.HEADERmenu .LOGOiptv::after {
 BODY.MENUactive HEADER.HEADERmenu .MENUcntt {
     padding: 12px 10px;
 }
+BODY.MENUactive HEADER.HEADERmenu .MENUcntt {
+    padding: 12px 10px;
+}
+
 @media screen and (max-width:460px) {
 	.DATAmodal .FOOTERmsg .BTTUNSit {
 		float: left
