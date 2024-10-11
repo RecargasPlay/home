@@ -16,6 +16,11 @@ BODY SECTION.PLANOSiptv H6 {
     margin-bottom: 38px;
     text-align: center;
 }
+HEADER.HEADERmenu .MENUcntt, HEADER.STATICmenu .MENUcntt {
+    padding: 12px 58px;
+    transition: padding .2s linear;
+    display: block;
+}
 @media screen and (max-width:460px) {
 	.DATAmodal .FOOTERmsg .BTTUNSit {
 		float: left
