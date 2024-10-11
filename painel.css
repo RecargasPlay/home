@@ -878,6 +878,7 @@ HEADER.STATICmenu .HEADERinst {
 	z-index: 5;
 	font-family: Lato;
 	background-color:transparent;
+	height: 4em;
 }
 
 HEADER.HEADERmenu .MENUcntt,
