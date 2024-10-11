@@ -146,6 +146,7 @@ BODY SECTION.PLANOSiptv H6 {
 	BODY HEADER.HEADERmenu .MENUcntt,
 	BODY HEADER.STATICmenu .MENUcntt {
 		padding: 0 !important
+		display:flex;
 	}
 
 	BODY HEADER.HEADERmenu .LISTmenu,
