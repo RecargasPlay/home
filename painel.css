@@ -879,7 +879,7 @@ HEADER.HEADERmenu .MENUcntt,
 HEADER.STATICmenu .MENUcntt {
 	padding: 12px 58px;
 	transition: padding .2s linear;
-	display: flow-root
+	display: flex;
 }
 
 HEADER.HEADERmenu .LOGOiptv,
