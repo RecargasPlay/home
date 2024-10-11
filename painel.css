@@ -160,14 +160,14 @@ BODY SECTION.PLANOSiptv H6 {
 	HEADER.STATICmenu .LISTmenu UL {
 		display: flex;
 		width: max-content;
-		padding: 4px 18px 8px;
+		padding: 0px 0px 0px;
 		margin: 0 auto
 	}
 
 	BODY HEADER.HEADERmenu .LOGOiptv,
 	HEADER.STATICmenu .LOGOiptv {
 		width: 100% !important;
-		margin: 14px 0 0
+		margin: 0px 0 0
 	}
 
 	HEADER.HEADERmenu .LOGOiptv::after,
